@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalacticGuard", "GalacticGuard.csproj", "{5416565F-DC73-49EB-8B72-B48BF1CA0087}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLogic", "..\GameLogic\GameLogic.csproj", "{641B4EC2-29AD-406F-B692-BF5DFD33128B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5416565F-DC73-49EB-8B72-B48BF1CA0087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5416565F-DC73-49EB-8B72-B48BF1CA0087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5416565F-DC73-49EB-8B72-B48BF1CA0087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5416565F-DC73-49EB-8B72-B48BF1CA0087}.Release|Any CPU.Build.0 = Release|Any CPU
+		{641B4EC2-29AD-406F-B692-BF5DFD33128B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{641B4EC2-29AD-406F-B692-BF5DFD33128B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{641B4EC2-29AD-406F-B692-BF5DFD33128B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{641B4EC2-29AD-406F-B692-BF5DFD33128B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0416057-8904-4BD6-9741-9B979704F374}
+	EndGlobalSection
+EndGlobal
